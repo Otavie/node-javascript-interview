@@ -1,0 +1,5 @@
+1)  Explain the purpose of the package.json file in a Node.js project.
+
+The package.json file in a Node project serves as a manifest file that contains metadata about the project and configuration details.
+
+It is a standard form of presenting project details and dependencies, thereby ensuring consistency, easy collaboration and simplifications of the process of managing Node projects
